@@ -1,0 +1,169 @@
+/* 
+@media (max-width: 1280px) {
+	.section-1 .card h2 {
+    font-size: 35px;
+}
+}
+@media (max-width: 1200px) {
+     
+}
+@media (max-width: 1024px) {
+   .banner-img-container {
+    max-width: 364px;
+}
+	
+}
+ @media (max-width: 991.9px) {
+    .mobile_menu{
+        display: none ;
+    }
+    .menu_icon {
+        display: block;
+    }
+    .banner-text .title {
+    background-image: linear-gradient(to right, #8750f7 0%, #fff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 40px;
+}
+.banner-btns .mobile_menu {
+    display: inline-block;
+}
+.card-first-item {
+    display: flex;
+    align-items: start;
+    gap: 10px;
+    flex-direction: column;
+}
+.section-1 .card h2 {
+    font-size: 28px;
+}
+.section-1 .card-icon i {
+    color: #fff;
+    transform: rotate(40deg);
+    font-size: 25px;
+    transition: all 0.3s ease;
+}
+p{
+    font-size: 16px;
+}
+.card-skills {
+    margin-top: 25px;
+}
+}
+
+ @media (max-width: 767px) {
+    header .logo {
+        font-size: 24px;
+        width: 301px;
+    }
+    .banner-text {
+    }
+    .banner-text .title {
+    font-size: 35px;
+}
+.banner-btns .mobile_menu {
+    display: inline-block;
+    padding: 7px 15px;
+    font-size: 14px;
+}
+    .section-1 {
+        text-align: center;
+    }
+    .about-img {
+        max-width: 250px;
+        margin: auto;
+        margin-bottom: 25px;
+        margin-top: 25px;
+    }
+    .nav.nav-pills .nav-link {
+        white-space: nowrap !important;
+        
+    }
+    .nav.nav-pills{
+        justify-content: initial !important;
+        flex-wrap: initial !important;
+        overflow-x: auto;
+    }
+    .h2, h2 {
+        font-size:30px;
+    }
+    .product-card h4 {
+        font-size: 22px;
+    }
+    p {
+        font-size: 16px;
+    }
+    .product-card img {
+        max-width: 200px;
+    }
+    .contact-us-text-container  h4 {
+        font-size: 22px;
+    }
+    .banner-img {
+        margin-top: 40px;
+    }
+    .banner-img-container {
+    max-width: 255px;
+}
+.section-1 .text-start{
+    margin-top: 15px !important;
+}
+.card-icon {
+    display: none;
+}
+.banner {
+    margin-top: 45px;
+}
+.section-1 .card h2 {
+    font-size: 25px;
+}
+.nav.nav-pills{
+    justify-content: center !important;
+}
+.card-skills {
+    margin-top: 25px;
+}
+section {
+    padding: 30px 0px;
+}
+.form-card {
+    margin-bottom: 30px;
+}
+h4{
+    font-size: 18px;
+}
+.form-card {
+    padding: 15px;
+    background: #20132e;
+}
+.nav.nav-pills .nav-link {
+    font-size: 16px;
+}
+.banner-btns {
+    display: flex;
+    align-items: center;
+}
+#contact-form .banner-btns{
+    justify-content: end !important;
+}
+.social_icons .icons {
+    width: 36px;
+    height: 36px;
+}
+.fa-phone {
+    font-size: 15px !important;
+}
+.social-media-fixed {
+  position: fixed;
+  bottom: 5px;
+  right: 15px;
+  display: block;
+  display: flex;
+  flex-direction: column;
+}
+.social_icons .icons {
+    background: #140c1c;
+}
+}
+	 */
